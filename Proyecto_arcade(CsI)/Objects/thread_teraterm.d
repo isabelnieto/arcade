@@ -1,0 +1,10 @@
+.\objects\thread_teraterm.o: Thread_Teraterm.c
+.\objects\thread_teraterm.o: teraterm.h
+.\objects\thread_teraterm.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\RTOS\RTX\INC\cmsis_os.h
+.\objects\thread_teraterm.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\thread_teraterm.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\thread_teraterm.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\Driver\Include\Driver_USART.h
+.\objects\thread_teraterm.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.5.1\CMSIS\Driver\Include\Driver_Common.h
+.\objects\thread_teraterm.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\thread_teraterm.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\thread_teraterm.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
